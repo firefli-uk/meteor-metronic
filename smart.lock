@@ -3,7 +3,7 @@
   "dependencies": {
     "basePackages": {
       "bootstrap-3": {},
-      "font-awesome-4": {},
+      "font-awesome-4.1.0": {},
       "uniform-package": {}
     },
     "packages": {
