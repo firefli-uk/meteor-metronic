@@ -12,7 +12,7 @@
         "tag": "v0.3.7",
         "commit": "5dd0d142c870647b910be80bc777b96f0dd45e5e"
       },
-      "font-awesome-4": {},
+      "font-awesome-4.1.0": {},
       "uniform-package": {
         "git": "https://github.com/Ore4444/uniform-package.git",
         "tag": "v0.0.2",
